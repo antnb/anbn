@@ -14,10 +14,13 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	mainSections = 'posts'
 
 [author]
-	name = 'Anton'
-	bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
-	avatar = '/images/avatar.jpg'
-	twitter = 'https://twitter.com/insertapps'
+name = "Anton"
+bio = """
+Anton is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, Anton writes about everything from technology and personal development to lifestyle and entertainment. Anton's goal is to engage and inform readers with well-researched and thought-provoking content.
+"""
+avatar = "/images/avatar.jpg"
+twitter = "https://twitter.com/insertapps"
+
 
 [menu] # Menu management
 	[[menu.main]]
