@@ -32,13 +32,17 @@ twitter = "https://twitter.com/insertapps"
 		pageRef = '/about'
 		weight = 15
 	[[menu.main]]
-		name = 'Privacy'
-		pageRef = '/privacy'
+		name = 'Contact'
+		pageRef = '/contact'
 		weight = 20
 	[[menu.main]]
-		name = 'Taxonomy'
-		pageRef = '/tags/space/'
+		name = 'Privacy1'
+		pageRef = '/privacy'
 		weight = 25
+	[[menu.main]]
+		name = 'Privacy2'
+		pageRef = '/privacy'
+		weight = 30
 
 [module]
   [module.hugoVersion]

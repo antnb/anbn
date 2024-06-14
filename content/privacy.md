@@ -4,7 +4,7 @@ title = "Kebijakan Privasi"
 
 ## Pengantar
 
-Selamat datang di [Nama Blog Anda]! Privasi pengunjung kami sangat penting bagi kami. Kebijakan Privasi ini menjelaskan jenis informasi pribadi yang dikumpulkan dan dicatat oleh blog kami dan bagaimana kami menggunakannya.
+Selamat datang di antonnb.com! Privasi pengunjung kami sangat penting bagi kami. Kebijakan Privasi ini menjelaskan jenis informasi pribadi yang dikumpulkan dan dicatat oleh blog kami dan bagaimana kami menggunakannya.
 
 ## Informasi yang Kami Kumpulkan
 
