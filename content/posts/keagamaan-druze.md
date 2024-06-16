@@ -4,8 +4,7 @@ image: images/druze2.jpg
 caption: Para pemeluk agama Druze berkumpul dalam upacara keagamaan untuk memperkuat ikatan komunitas dan penghormatan terhadap tradisi mereka.
 date: 2023-05-04T08:31:00+00:00
 categories:
-  - budaya
-  - religion
+  - Sejarah dan Budaya
 
 ---
 Sejarah dan keberagaman agama di Timur Tengah telah membawa banyak pengaruh dan kontribusi bagi perkembangan sejarah dunia. Salah satu kelompok agama yang unik dan menarik untuk dipelajari adalah Druze, sebuah kelompok agama minoritas yang tersebar di negara-negara Timur Tengah seperti Lebanon, Suriah, Israel, dan Yordania. Meskipun mereka merupakan kelompok minoritas, Druze memiliki pengaruh yang signifikan dalam sejarah dan budaya Timur Tengah.

@@ -4,7 +4,7 @@ author: admin
 date: 2023-04-28T23:04:00+00:00
 image: images/neoplatonisme.jpg
 categories:
-  - filosofi
+  - Filsafat dan Agama
 
 ---
 &nbsp;Neoplatonisme adalah sebuah aliran pemikiran yang berkembang pada masa akhir Kekaisaran Romawi dan awal Abad Pertengahan. Pemikiran ini berakar dari ajaran Plato, filsuf Yunani kuno yang terkenal dengan pemikiran idealisnya tentang dunia yang terdiri dari realitas yang lebih tinggi dan ideal. Dalam bahasa Yunani, neo berarti &#8220;baru&#8221; atau &#8220;baru-baru ini&#8221;, sehingga Neoplatonisme dapat diartikan sebagai pemikiran baru tentang ajaran Plato.

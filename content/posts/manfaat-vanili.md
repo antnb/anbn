@@ -4,10 +4,17 @@ image: images/vanili-1-.jpg
 caption: Langkah-langkah untuk merebus vanili guna memperoleh cita rasa yang lezat
 date: 2023-05-19T05:57:00+00:00
 categories:
-  - pengetahuan
-  - vanili
-
+  - Health
+  - Culinary
+tags:
+  - Vanilla
+  - Nutrition
+  - Antioxidants
+  - Health Benefits
+  - Culinary Uses
+draft: false
 ---
+
 Biji vanili, anugerah dari tanaman Vanilla planifolia, telah menjadi persembahan yang tak ternilai bagi dunia kuliner dan kesehatan. Bukan hanya sebagai penyedap makanan, vanili memiliki keajaiban yang memikat hati. Aroma khasnya mampu menciptakan suasana yang tenang dan bebas stres, memberikan sentuhan kelembutan pada hidup kita. Kandungan antioksidannya yang melimpah juga membantu melawan bahaya radikal bebas dan menjaga tubuh kita dari berbagai penyakit.
 
 Tidak hanya bijinya yang kaya akan kandungan vanilin, tapi kulit polong vanili juga menjadi tempat persembunyian keharumannya. Terdapat 130 senyawa lain yang memberikan karakteristik dan keunikan pada vanili, termasuk p-hidroksi bensaldehida yang memberikan aroma sedap sebesar 9%.

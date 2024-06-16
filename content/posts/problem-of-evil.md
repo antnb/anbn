@@ -3,16 +3,8 @@ title: 'Kehadiran Kebaikan dan Kejahatan dalam Filsafat Neoplatonis: Memahami So
 author: admin
 image: images/plotinus1.jpg
 date: 2023-04-29T00:19:00+00:00
-blogger_blog:
-  - antnb.blogspot.com
-blogger_author:
-  - Anton
-blogger_permalink:
-  - /2023/04/kehadiran-kebaikan-dan-kejahatan-dalam.html
-blogger_internal:
-  - /feeds/4658023316025316624/posts/default/6975584056328211417
 categories:
-  - filosofi
+  - Filsafat dan Agama
 
 ---
 Filsafat Neoplatonis adalah salah satu aliran pemikiran yang berkembang pada masa Kekaisaran Romawi pada abad ke-3 hingga ke-6 Masehi. Aliran ini banyak dipengaruhi oleh pemikiran Plato, seorang filsuf Yunani kuno yang dianggap sebagai bapak filsafat Barat. Dalam konteks Neoplatonis, Plato dianggap sebagai tokoh yang memperkenalkan gagasan tentang keberadaan dan kebaikan.

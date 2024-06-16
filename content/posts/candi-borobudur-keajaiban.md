@@ -5,7 +5,7 @@ image: images/borobudur2.jpg
 caption: Stupa di Candi Borobudur - Candi Budaya Indonesia
 date: 2023-05-04T21:58:00+00:00
 categories:
-  - sejarah
+  - Sejarah dan Budaya
 
 ---
 &nbsp;Sebagai situs bersejarah dan keagamaan yang terkenal di Indonesia, Candi Borobudur telah menarik perhatian banyak orang dari berbagai belahan dunia. Terletak di Kabupaten Magelang, Jawa Tengah, Candi Borobudur dibangun pada masa Dinasti Syailendra sekitar tahun 824 Masehi. Saat ini, Candi Borobudur telah menjadi salah satu situs warisan dunia UNESCO dan menjadi tempat wisata yang populer di Indonesia.

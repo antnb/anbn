@@ -3,16 +3,8 @@ title: 'Neutron Stars: Objek Astrofisika dengan Kepadatan dan Medan Gravitasi Su
 image: images/NeutronStars1.jpg
 caption: putaran nutron dalam Neutron Stars
 date: 2023-05-02T23:26:00+00:00
-blogger_blog:
-  - antnb.blogspot.com
-blogger_author:
-  - Anton
-blogger_permalink:
-  - /2023/05/neutron-stars-objek-astrofisika-dengan.html
-blogger_internal:
-  - /feeds/4658023316025316624/posts/default/524454721081727636
 categories:
-  - astronomi
+  - Ilmu Pengetahuan dan Teknologi
 
 ---
 Neutron Stars merupakan objek astrofisika yang menarik perhatian para ilmuwan karena sifat dan karakteristiknya yang unik. Objek ini terbentuk dari ledakan supernova yang menghasilkan inti bintang yang sangat padat dan kecil, namun sangat kuat secara gravitasi. Neutron Stars memiliki kepadatan yang sangat tinggi dan kuatnya medan gravitasi, sehingga dapat mempengaruhi fenomena astrofisika di sekitarnya, seperti pergerakan planet dan bintang. Selain itu, Neutron Stars juga menjadi objek studi yang menarik karena keterkaitannya dengan fenomena astrofisika yang lain seperti pulsar dan magnetar.

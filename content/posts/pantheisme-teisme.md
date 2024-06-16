@@ -3,7 +3,7 @@ title: 'Pantheisme: Memahami Pendekatan Unik terhadap Teisme'
 date: 2023-04-25T15:12:00+00:00
 image: images/im.jpg
 categories:
-  - filosofi
+  - Filsafat dan Agama
 ---
 &nbsp;Pantheisme adalah suatu konsep dalam filsafat dan agama yang mengakui bahwa segala sesuatu di dunia ini adalah bagian dari keberadaan Tuhan atau keberadaan yang lebih besar yang sama dengan Tuhan. Pantheisme mengambil akar dari banyak tradisi spiritual dan telah muncul di banyak budaya dan agama di seluruh dunia, termasuk dalam pandangan filosofis Baruch Spinoza pada abad ke-17.
 

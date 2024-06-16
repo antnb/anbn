@@ -4,8 +4,7 @@ image: images/etnosentrism2.jpg
 caption: Gambar ini menggambarkan etnosentrisme yang terjadi dalam masyarakat, yaitu pandangan bahwa kelompok etnis tertentu lebih unggul daripada kelompok etnis lainnya.
 date: 2023-05-12T01:06:00+00:00
 categories:
-  - budaya
-  - pengetahuan
+  - Hukum dan Politik
 
 ---
 Selamat datang pembaca! Kalian pasti sudah tidak sabar untuk membaca artikel saya yang super informatif dan menarik tentang etnosentrisme. Apa itu etnosentrisme? **Etnosentrisme adalah sikap merasa superior yang biasa dimiliki oleh kelompok tertentu**. Hal ini seringkali menghasilkan ketidakadilan, prasangka, dan konflik antar kelompok.

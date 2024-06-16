@@ -3,7 +3,7 @@ title: 'Memahami Sosok Maria Magdalena: Perempuan Berpengaruh dalam Sejarah Kehi
 date: 2023-04-30T06:51:00+00:00
 image: images/marry.jpg
 categories:
-  - tokoh
+  - Sejarah dan Budaya
 
 ---
 &nbsp;Maria Magdalena adalah salah satu tokoh penting dalam Alkitab. Ia sering kali disebut sebagai salah satu dari banyak pengikut Yesus dan menjadi saksi mata atas kebangkitanNya. Namun, selain itu masih banyak hal yang mungkin belum diketahui banyak orang mengenai kehidupan Maria Magdalena.

@@ -4,7 +4,7 @@ date: 2023-05-13T23:15:00+00:00
 image: images/collabs.jpg
 caption: Bharada E, seorang individu yang mengajukan diri sebagai justice collaborator untuk membantu penegakan hukum dan keadilan.
 categories:
-  - pengetahuan
+  - Hukum dan Politik
 
 ---
 &nbsp;Justice Collaborator adalah sebuah program yang menarik perhatian banyak orang, karena hal tersebut memungkinkan individu yang terlibat dalam kejahatan untuk mengurangi hukuman mereka dengan cara bekerjasama dengan pihak berwenang. Dalam artikel ini, saya akan membahas lebih lanjut tentang Justice Collaborator, termasuk sejarahnya dan bagaimana program ini berfungsi secara keseluruhan.
