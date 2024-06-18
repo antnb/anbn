@@ -1,4 +1,6 @@
----
-title: "Filsafat dan Agama"
-description: "Articles under the Filsafat dan Agama category"
----
++++
+title = 'Filsafat dan Agama'
+date = 2024-06-17T07:11:13-07:00
+draft = false
+url = 'categories/filsafatagama'
++++
