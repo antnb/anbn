@@ -2,6 +2,7 @@ baseURL = 'https://pehtheme-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'Anton Nb'
 theme = 'pehtheme-hugo'
+canonifyURLs = true
 
 paginate = '6' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
