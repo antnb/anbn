@@ -4,6 +4,7 @@ title = 'Anton Nb'
 theme = 'pehtheme-hugo'
 canonifyURLs = true
 paginatePath = "laman"
+sitemapExclude = true
 
 paginate = '12' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
@@ -14,6 +15,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
 	description = 'Blog yang membahas beragam topik secara mendalam dan menarik'
 	mainSections = 'posts'
+	taxonomiesExcludedFromSitemap = ["tags", "categories"]
 
 [author]
 name = "Anton"
@@ -64,4 +66,7 @@ twitter = "https://twitter.com/insertapps"
   disable = false
   filename = 'petas.xml'
   priority = 0.8
+  
+
+
 

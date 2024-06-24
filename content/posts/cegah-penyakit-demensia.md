@@ -2,7 +2,7 @@
 title: Cegah Penyakit Gampang Lupa (demensia) Dengan Ginkgo Biloba
 date: 2024-06-22T07:18:18+00:00
 image: /images/images_640x379.jpg
-
+caption: Gambar menunjukkan seorang pria yang menutupi wajahnya dengan tangan, tampak dalam kesedihan dan mungkin rasa sakit. Latar belakang menunjukkan hasil pemindaian otak, mencerminkan hubungan antara kondisi emosional dan kondisi neurologis, seperti demensia
 ---
 Demensia mempengaruhi jutaan orang di seluruh dunia, terutama mereka yang berusia lanjut. Namun, dengan pola hidup sehat dan penggunaan herbal seperti Ginkgo Biloba, Anda bisa menjaga daya ingat dan kualitas hidup Anda.
 
