@@ -30,6 +30,8 @@ Setiap pola asuh memiliki dampak yang berbeda pada perilaku anak dan dapat diken
 Lima Faktor Utama Pemicu Anak Berlaku Agresif
 ---------------------------------------------
 
+{{< figure src="/images/arifrahman.jpg" alt="Dr. H. Arief Rachman, M.Pd " >}}
+
 Menurut Dr. H. Arief Rachman, M.Pd., ada lima faktor utama yang memicu tindak kekerasan yang marak dilakukan anak usia dini:
 
 1.  **Faktor Psikologis Anak**: Ketidakstabilan jiwa anak sangat berpengaruh pada pembentukan pribadinya. Anak yang memiliki sifat dasar pendendam, pemarah, atau tingkat emosional tinggi akan cenderung berbuat sesuatu yang kurang baik.
