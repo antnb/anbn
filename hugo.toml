@@ -1,5 +1,5 @@
 baseURL = 'https://www.anton-nb.com/'
-languageCode = 'en-us'
+languageCode = 'id-ID'
 title = 'Anton Nb'
 theme = 'pehtheme-hugo'
 canonifyURLs = true
