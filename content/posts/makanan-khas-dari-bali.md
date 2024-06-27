@@ -1,6 +1,6 @@
 ---
 title: Jelajahi Keunikan Makanan Khas Dari Bali dan Rasakan Sensasi Kuliner yang Tak Tergantikan
-image: images/bali.jpeg
+image: images/kuiner.jpeg
 caption: satai bali.
 date: 2023-05-10T15:25:00+00:00
 categories:
