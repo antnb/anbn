@@ -1,7 +1,12 @@
 ---
 title: Jelajahi Keunikan Makanan Khas Dari Bali dan Rasakan Sensasi Kuliner yang Tak Tergantikan
+<<<<<<< Updated upstream
 image: images/kuliner.jpeg
 caption: makanan tradisional dari bali
+=======
+image: images/bali.jpg
+caption: satai bali.
+>>>>>>> Stashed changes
 date: 2023-05-10T15:25:00+00:00
 categories:
   - kuliner
