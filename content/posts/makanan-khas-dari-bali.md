@@ -1,16 +1,12 @@
 ---
 title: Jelajahi Keunikan Makanan Khas Dari Bali dan Rasakan Sensasi Kuliner yang Tak Tergantikan
-<<<<<<< Updated upstream
 image: images/kuliner.jpeg
 caption: makanan tradisional dari bali
-=======
-image: images/bali.jpg
+image: /images/bali.jpg
 caption: satai bali.
->>>>>>> Stashed changes
 date: 2023-05-10T15:25:00+00:00
 categories:
   - kuliner
-
 ---
 Bali adalah sebuah pulau di Indonesia yang terkenal dengan keindahan alam dan keunikan budayanya. Terletak di antara pulau Jawa dan Lombok, Bali dikenal dengan julukan &#8220;Pulau Dewata&#8221; karena keindahan alamnya dan keberadaan ribuan pura di seluruh wilayahnya. Namun, keunikan Bali tidak hanya terletak pada alam dan budayanya, tetapi juga pada kuliner khasnya yang sangat terkenal di seluruh dunia.
 
