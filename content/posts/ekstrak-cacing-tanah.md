@@ -154,7 +154,7 @@ Mustaki. (2014). Rebusan Cacing Tanah (Lumbricus rubellus) Efektif sebagai Obat.
 Brawijaya.
 
 Nur Indah Yanti, 2008, Efektivitas Ekstrak CacingTtanah (Lumbricus rubellus) dalam Menghambat
-Pertumbuhan Salmonella typhi Penyebab Deman Tipoid. URI: http://repository.unhas.ac.id/handle/123456789 /3392.
+Pertumbuhan Salmonella typhi Penyebab Deman Tipoid. URI: http://repository.unhas.ac.id/handle/123456789/3392.
 
 Popović, M., M. Grdiša And T.M. Hrženjak. 2005.Glycolipoprotein G-90 obtained from the earthworm
 Eisenia foetida exerts antibacterial activity. Council Archive. 75: 119-128.
