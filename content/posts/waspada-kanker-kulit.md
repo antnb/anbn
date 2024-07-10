@@ -4,7 +4,7 @@ image: /images/cancer1.jpg
 caption: Seorang wanita muda dengan tanda besar di dada, menunjukkan tanda-tanda kanker kulit yang perlu diwaspadai.
 date: 2024-05-10T15:25:00+00:00
 categories:
-  - kuliner
+  - kesehatan
 ---
 
 
