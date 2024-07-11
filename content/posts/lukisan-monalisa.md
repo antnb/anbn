@@ -6,7 +6,8 @@ caption: Seorang pengunjung museum Louvre terpesona melihat Mona Lisa, salah sat
 categories:
   - pengetahuan
   - seni
-
+tags:
+- feature
 ---
 Lukisan Monalisa, juga dikenal dengan nama La Gioconda, adalah salah satu karya seni paling terkenal dan ikonik di dunia. Karya ini merupakan lukisan potret seorang wanita yang dianggap sebagai salah satu lukisan paling misterius dan kontroversial dalam sejarah seni rupa. Dalam artikel ini, kita akan membahas latar belakang lukisan Monalisa, karya seni siapa yang membuatnya, dan mengapa lukisan ini sangat terkenal hingga saat ini.
 
