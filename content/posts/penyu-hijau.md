@@ -69,14 +69,19 @@ Namun, harapan tetap ada. Program "Adopt a Nest" yang diinisiasi TNMB telah mend
 Selain penyu hijau, perairan Indonesia juga menjadi rumah bagi lima spesies penyu lainnya. Masing-masing memiliki karakteristik unik yang memperkaya biodiversitas laut nusantara.
 
 1.  Penyu Sisik (Eretmochelys imbricata):Dengan paruh tajamnya, penyu ini memainkan peran penting dalam menjaga kesehatan terumbu karang. "Penyu sisik memakan spons yang bisa mendominasi terumbu jika tidak dikontrol," jelas Dr. Soetoro.
-    
 2.  Penyu Belimbing (Dermochelys coriacea):Sebagai penyu terbesar, dengan panjang mencapai 2 meter, penyu belimbing adalah perenang handal yang bisa menyelam hingga kedalaman 1000 meter. "Mereka adalah pengendali populasi ubur-ubur," tambah Andi.
-    
 3.  Penyu Lekang (Lepidochelys olivacea):Meskipun ukurannya terkecil, penyu lekang terkenal dengan fenomena "arribada", di mana ribuan penyu bertelur secara bersamaan. "Sayangnya, fenomena ini semakin jarang terjadi di Indonesia," kata Bambang.
-    
 4.  Penyu Tempayan (Caretta caretta):Dengan rahang kuatnya, penyu ini memainkan peran penting dalam mengontrol populasi kepiting dan moluska. "Mereka adalah insinyur ekosistem yang sering terabaikan," ungkap Dr. Soetoro.
-    
 5.  Penyu Pipih (Natator depressus):Endemik di wilayah Australia dan Indonesia bagian timur, penyu ini adalah yang paling jarang ditemui. "Setiap pertemuan dengan penyu pipih adalah momen berharga bagi peneliti," tambah Dr. Soetoro.
+
+### Tabel Perbandingan jenis penyu
+
+| Spesies       | Karakteristik Utama                    | Makanan Utama        |
+|:--------------|:---------------------------------------|:---------------------|
+| Penyu Hijau   | Karapas kehijauan, herbivora           | Rumput laut, alga    |
+| Penyu Sisik   | Paruh tajam, karapas bergerigi         | Spons, karang lunak  |
+| Penyu Belimbing| Karapas lunak, ukuran terbesar        | Ubur-ubur            |
+| Penyu Lekang  | Ukuran terkecil                        | Krustasea, moluska   |
     
 
 ## Menatap Masa Depan: Harapan di Tengah Ketidakpastian
