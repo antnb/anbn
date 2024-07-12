@@ -5,7 +5,12 @@ date: 2024-07-11
 image: /images/walet2.jpg
 draft: false
 tags: 
+  - sarang walet
+  - amplifier walet
+  - budidaya walet
 categories: 
+  - teknologi pertanian
+  - budidaya
 ---
 
 Tahukah Anda bahwa penggunaan teknologi canggih seperti amplifier walet dapat meningkatkan produksi sarang walet hingga 50%? Industri sarang walet kini memasuki era baru, meninggalkan metode tradisional yang mengandalkan insting burung. Dengan inovasi seperti amplifier walet, para peternak walet dapat membuka potensi produksi yang belum pernah terbayangkan sebelumnya, mengubah cara kita memandang budidaya sarang walet secara dramatis.
@@ -80,6 +85,8 @@ Penggunaan amplifier harus diintegrasikan dengan praktik manajemen yang baik:
     
 
 ### 3.3 Customisasi Suara untuk Hasil Maksimal
+
+{{< figure src="/images/walet1.jpg" alt="Amplifier walet 4 CH" >}}
 
 Dalam memaksimalkan hasil budidaya sarang walet, penting untuk melakukan customisasi suara secara tepat. Variasi suara yang disesuaikan dengan fase breeding dan integrasi suara alam memainkan peran krusial dalam menciptakan atmosfer yang alami dan mendukung aktivitas bersarang burung walet. Integrasi teknologi amplifier walet memungkinkan pengaturan volume suara yang fleksibel, sesuai dengan waktu hari dan kebutuhan spesifik lingkungan breeding. Tidak semua suara walet diciptakan sama. Para ahli merekomendasikan:
 
