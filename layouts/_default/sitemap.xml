@@ -26,7 +26,7 @@
         <news:news>
           <news:publication>
             <news:name>{{ .Site.Title }}</news:name>
-            <news:language>{{ .Language.Lang }}</news:language>
+            <news:language>id</news:language>
           </news:publication>
           <news:publication_date>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</news:publication_date>
           <news:title>{{ .Title }}</news:title>
