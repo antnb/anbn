@@ -1,8 +1,13 @@
----
+------
 title: "Menyingkap Tabir Pengobatan Alternatif di Depok Tengah: Dari Pijat Urut hingga Terapi Holistik"
 date: 2024-07-12
-image: /images/alternatif1.jpg
 draft: false
+image: /images/alternatif1.jpg
+description: "Di tengah hiruk-pikuk kota Depok yang terus berkembang, pengobatan alternatif menjadi pilihan menarik bagi masyarakat Depok Tengah. Artikel ini mengulas berbagai metode pengobatan seperti pijat urut, herbal, akupunktur, dan penyembuhan spiritual."
+keywords: ["pengobatan alternatif", "pijat urut", "terapi holistik", "Depok Tengah", "pengobatan herbal", "akupunktur", "penyembuhan spiritual"]
+tags: ["Kesehatan", "Pengobatan Alternatif", "Depok"]
+categories: ["Kesehatan"]
+summary: "Di tengah hiruk-pikuk kota Depok yang terus berkembang, pengobatan alternatif menjadi pilihan menarik bagi masyarakat Depok Tengah. Artikel ini mengulas berbagai metode pengobatan seperti pijat urut, herbal, akupunktur, dan penyembuhan spiritual."
 ---
 
 Di tengah hiruk-pikuk kota Depok yang terus berkembang, tersimpan sebuah fenomena kesehatan yang menarik perhatian: pengobatan alternatif. Bagi sebagian masyarakat Depok Tengah, nama-nama seperti Bripka Nasir, Mbah Suro, atau Ibu Ratna bukanlah sekadar nama biasa. Mereka adalah para praktisi pengobatan alternatif yang telah menjadi tumpuan harapan bagi mereka yang mencari penyembuhan di luar jalur medis konvensional.
