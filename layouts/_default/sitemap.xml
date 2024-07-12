@@ -1,6 +1,8 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   {{ $exclude := slice "tags" "categories" }}
   {{ range .Pages }}
     {{ if not (in $exclude .Data.Plural) }}
@@ -19,7 +21,27 @@
                     hreflang="{{ .Language.Lang }}"
                     href="{{ .Permalink }}"
                     />{{ end }}
+        
+        <!-- Additional elements for Google News -->
+        <news:news>
+          <news:publication>
+            <news:name>{{ .Site.Title }}</news:name>
+            <news:language>{{ .Language.Lang }}</news:language>
+          </news:publication>
+          <news:publication_date>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</news:publication_date>
+          <news:title>{{ .Title }}</news:title>
+          {{ with .Params.keywords }}
+          <news:keywords>{{ delimit (slice .) ", " }}</news:keywords>
+          {{ end }}
+        </news:news>
+        {{ with .Params.image }}
+        <image:image>
+          <image:loc>{{ . }}</image:loc>
+        </image:image>
+        {{ end }}
       </url>
     {{ end }}
   {{ end }}
 </urlset>
+
+
