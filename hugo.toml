@@ -67,6 +67,16 @@ twitter = "https://twitter.com/insertapps"
   filename = 'petas.xml'
   priority = 0.8
   
+[outputFormats.RSSNEWS]
+  baseName = "rssnews"
+  mediaType = "application/rss+xml"
+  isHTML = false
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "RSSNEWS"]
+
+  
 
 
 

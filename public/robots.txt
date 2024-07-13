@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /laman/*
+Disallow: /tags/*
+
+Sitemap: https://www.anton-nb.com/sitemap.xml

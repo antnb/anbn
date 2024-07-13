@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Anton Nb</title>
+    <link>https://www.anton-nb.com/categories/linux/</link>
+    <description>Recent content in Linux on Anton Nb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sat, 29 Apr 2023 01:48:00 +0000</lastBuildDate>
+    <atom:link href="https://www.anton-nb.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengoptimalkan Jadwal Tugas Periodik dengan Systemd Timers di Linux</title>
+      <link>https://www.anton-nb.com/posts/systemd-timers-di-linux/</link>
+      <pubDate>Sat, 29 Apr 2023 01:48:00 +0000</pubDate>
+      <guid>https://www.anton-nb.com/posts/systemd-timers-di-linux/</guid>
+      <description>Systemd timers adalah fitur terbaru pada Linux yang dapat digunakan untuk menjadwalkan dan mengeksekusi tugas-tugas periodik pada sistem. Timers ini lebih canggih dan lebih baik dari penggunaan cron, sehingga banyak pengguna Linux beralih ke penggunaan systemd timers.</description>
+    </item>
+  </channel>
+</rss>
