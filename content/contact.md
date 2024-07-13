@@ -1,13 +1,16 @@
-+++
-title = "Kontak"
-+++
+---
+title: "Kontak"
+image: "/images/contact.jpg"
+draft: false
+---
+
 
 
 Terima kasih telah mengunjungi blog pribadi saya! Saya sangat senang bisa berbagi pikiran, pengalaman, dan cerita dengan Anda. Jika Anda memiliki pertanyaan, komentar, atau ingin berkolaborasi, jangan ragu untuk menghubungi saya.
 
 ## Informasi Kontak
 
-- **Email:** [emailanda@example.com](mailto:emailanda@example.com)
+- **Email:** [info@@anton-nb.com](mailto:info@@anton-nb.com)
 - **Telepon:** +62 878-2014-2041
 
 ## Media Sosial
