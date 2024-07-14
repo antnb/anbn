@@ -1,6 +1,8 @@
 ---
 title: "Menguasai Dog Obedience: Panduan Lengkap Pelatihan Ketaatan Anjing dan Mengatasi Kebiasaan Menubruk"
 draft: false
+date: 2024-07-14T09:00:00+07:00
+lastmod: 2024-07-14T09:00:00+07:00
 description: "Pelajari teknik dog obedience terbaik untuk melatih ketaatan anjing Anda dan mengatasi kebiasaan menubruk. Panduan lengkap dari ahli pelatihan anjing."
 categories: ["Perawatan Hewan"]
 tags: ["Dog Obedience", "Pelatihan Anjing", "Kebiasaan Menubruk"]
