@@ -132,7 +132,7 @@ Taktik Jitu: Gunakan follow-up sebagai kesempatan untuk memperkuat aplikasi Anda
 
 ## Optimalisasi untuk ATS (Applicant Tracking System)
     
-{{< figure src="/images/lamaran1" alt="seorang pelamar sedang menberikan surat lamaran pekerjaan" >}}
+{{< figure src="/images/lamaran1.jpg" alt="seorang pelamar sedang menberikan surat lamaran pekerjaan" >}}
 
 Di era digital, banyak perusahaan menggunakan ATS untuk menyaring lamaran. Mengoptimalkan surat lamaran Anda untuk ATS bisa menjadi perbedaan antara ditolak secara otomatis atau lolos ke tahap selanjutnya.
 
