@@ -15,8 +15,6 @@ tags:
   - "Ketahanan Pangan"
   - "Pertanian Berkelanjutan"
   - "Superfood"
-author: "Dr. Ade Prasetya"
-slug: "opuntia-ficus-indica-kaktus-ajaib-revolusi-dunia"
 keywords:
   - "Opuntia ficus-indica"
   - "kaktus gurun"
