@@ -8,8 +8,8 @@ sitemapExclude = true
 
 paginate = '15' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
-googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
-disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
+googleAnalytics = 'G-D9HY0ESWZ0' # <- Your GA-4
+disqusShortname = 'antonnb' # <- Get form here : https://disqus.com
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
