@@ -20,7 +20,7 @@ disqusShortname = 'antonnb' # <- Get form here : https://disqus.com
 [author]
 name = "Anton"
 bio = """
-Anton is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, Anton writes about everything from technology and personal development to lifestyle and entertainment. Anton's goal is to engage and inform readers with well-researched and thought-provoking content.
+Anton adalah penulis berpengalaman yang antusias dalam berbagai topik, mulai dari teknologi, pengembangan diri, gaya hidup, hingga hiburan. Dengan tujuan untuk menginspirasi dan memberikan wawasan, Anton selalu menghadirkan konten yang informatif dan menarik.
 """
 avatar = "/images/avatar.jpg"
 twitter = "https://twitter.com/insertapps"
