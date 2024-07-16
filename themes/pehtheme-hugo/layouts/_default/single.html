@@ -101,9 +101,9 @@
 
       <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
 
-        <h2 class="text-xl font-semibold">Comment</h2>
+        <h4 class="text-xl font-semibold">Komentar Pembaca</h4>
 
-        <p>Disqus comment here</p>
+        <p>Suara Anda</p>
 
         {{- /* template "_internal/disqus.html" . */ -}}
 
@@ -113,7 +113,7 @@
 
         <img class="w-20 h-20 rounded-full" src="{{ .Site.Author.avatar }}" alt="{{ .Site.Author.name }}">
 
-        <h2 class="text-xl font-bold my-4">Written by : {{ .Site.Author.name }}</h2>
+        <h4 class="text-xl font-bold my-4">Written by : {{ .Site.Author.name }}</h4>
 
         <p class="mb-4">{{ .Site.Author.bio }}</p>
 
