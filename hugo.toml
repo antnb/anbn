@@ -76,6 +76,10 @@ twitter = "https://twitter.com/insertapps"
 
 [outputs]
   home = ["HTML", "RSS", "RSSNEWS"]
+  
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
 
   
 
