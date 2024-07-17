@@ -5,6 +5,7 @@ theme = 'pehtheme-hugo'
 canonifyURLs = true
 paginatePath = "laman"
 sitemapExclude = true
+enableGitInfo = true
 
 paginate = '15' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters

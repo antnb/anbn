@@ -1,7 +1,7 @@
 ---
 title: "Akuarium Air Laut: Membawa Keajaiban Samudera ke Rumah Anda"
 date: 2024-07-16T09:00:00+07:00
-lastmod: 2024-07-16T09:00:00+07:00
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 draft: false
 description: "Jelajahi dunia memukau akuarium air laut, dari ekosistem kompleks hingga perawatan dan tren terkini. Temukan cara membawa keindahan samudera ke dalam rumah Anda."
 categories:
