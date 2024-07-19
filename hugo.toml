@@ -8,7 +8,7 @@ sitemapExclude = true
 enableGitInfo = true
 
 paginate = '15' # <- Set the desired number of posts per page 
-summaryLength = '20' # <- 20 words are approximately 160 characters
+summaryLength = '26' # <- 20 words are approximately 160 characters
 googleAnalytics = 'G-D9HY0ESWZ0' # <- Your GA-4
 disqusShortname = 'antonnb' # <- Get form here : https://disqus.com
 
