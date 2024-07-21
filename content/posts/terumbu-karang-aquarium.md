@@ -46,7 +46,7 @@ Terumbu karang bukan hanya indah dipandang, tapi juga memiliki peran vital dalam
 5. **Potensi Medis**: Banyak obat-obatan baru, termasuk obat untuk kanker dan HIV, berasal dari organisme yang hidup di terumbu karang.
 
 ## Menciptakan Ekosistem Buatan dalam Akuarium: Membawa Keajaiban Laut ke Rumah Anda
-{{< figure src="/images/filter.jpg" alt="filter pilihan untuk aquarium" >}}
+{{< figure src="/images/kunyit2.jpg" alt="panen kunyit hitam dan sedang dibersihkan" >}}
 Tertarik untuk membawa keajaiban terumbu karang ke rumah Anda? Memelihara akuarium terumbu karang bukan hanya hobi yang menakjubkan, tapi juga cara untuk berkontribusi pada konservasi dan penelitian.
 
 Jimmy Kuncoro Wardana, perancang akuarium laut terkenal di Surabaya, berbagi wawasannya, "Memulai akuarium terumbu karang memang tantangan, tapi sangat bermanfaat. Anda akan belajar banyak tentang ekosistem yang rumit ini dan secara tidak langsung berkontribusi pada pelestariannya."
