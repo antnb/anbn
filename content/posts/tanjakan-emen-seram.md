@@ -260,7 +260,7 @@ Namun, di balik semua cerita mistis dan tragedi yang telah terjadi, ada pelajara
 
 > "Tanjakan-tanjakan ini bukan hanya jalur transportasi, tapi juga guru kehidupan. Mereka mengajarkan kita tentang kehati-hatian, ketekunan, dan pentingnya saling menjaga," - Prof. Dr. Sutrisno, pakar keselamatan jalan Indonesia.
 
-### Ajakan Bertindak:
+### Penutup:
 
 1. Bagikan pengalaman Anda melewati tanjakan-tanjakan ini di media sosial dengan hashtag #TanjakanAmanIndonesia.
 2. Dukung kampanye keselamatan berkendara di daerah Anda.
