@@ -62,7 +62,7 @@ Raja Fahd bin Abdul Aziz Al-Saud bukan sekadar nama dalam buku sejarah. Ia adala
 
 Kisah Raja Fahd mengajarkan kita bahwa tidak ada yang mustahil jika kita berani bermimpi besar dan bekerja keras untuk mewujudkannya. Ia membuktikan bahwa tradisi dan modernitas bisa berjalan beriringan, bahwa kemajuan ekonomi dan spiritual bisa dicapai bersamaan.
 
-## Ajakan Bertindak
+## Penutup
 
 Apa yang bisa kita pelajari dari Raja Fahd? Bagaimana kita bisa menerapkan visi dan komitmennya dalam kehidupan kita sendiri? Mari kita renungkan:
 
