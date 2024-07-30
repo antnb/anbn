@@ -40,6 +40,10 @@ twitter = "https://twitter.com/insertapps"
         name = 'Contact'
         pageRef = '/contact'
         weight = 20
+	[[menu.main]]
+        name = 'Disclaimer'
+        pageRef = '/disclaimer'
+        weight = 25
 
     [[menu.top]]
         name = 'Home'
