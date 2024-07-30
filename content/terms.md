@@ -53,20 +53,32 @@ Penggunaan Situs ini juga tunduk pada Kebijakan Privasi kami, yang menjelaskan b
 
 Kami berhak untuk memblokir atau menghapus akun Anda jika Anda melanggar Syarat Penggunaan ini atau jika kami mencurigai adanya aktivitas yang melanggar hukum.
 
-### 10. Perlindungan Data Pribadi
+### 10. Force Majeure
+
+Kami tidak bertanggung jawab atas kegagalan dalam memenuhi kewajiban kami yang disebabkan oleh peristiwa di luar kendali kami, seperti bencana alam, perang, atau gangguan pada infrastruktur internet.
+
+### 11. Garansi Terbatas
+
+Situs ini disediakan "seadanya" tanpa jaminan apa pun, baik tersurat maupun tersirat, termasuk tetapi tidak terbatas pada jaminan kinerja, kehandalan, atau ketepatan informasi.
+
+### 12. Tautan Afiliasi
+
+Beberapa tautan di Situs mungkin merupakan tautan afiliasi. Kami dapat menerima komisi jika Anda melakukan pembelian melalui tautan tersebut.
+
+### 13. Perlindungan Data Pribadi
 
 Kami dapat mentransfer data pribadi Anda ke negara lain yang memiliki undang-undang perlindungan data yang berbeda. Kami akan mengambil langkah-langkah yang wajar untuk melindungi data pribadi Anda.
 
-### 11. Pembelaan dan Penggantian Rugi
+### 14. Pembelaan dan Penggantian Rugi
 
 Anda setuju untuk membela dan mengganti rugi kami dari dan terhadap segala klaim, tuntutan, kerusakan, kerugian, biaya, dan pengeluaran yang timbul dari atau sehubungan dengan penggunaan Situs oleh Anda.
 
-### 12. Perubahan Syarat Penggunaan
+### 15. Perubahan Syarat Penggunaan
 
 Kami berhak untuk mengubah Syarat Penggunaan ini kapan saja. Perubahan akan berlaku efektif segera setelah diposting di Situs. Anda diharapkan untuk memeriksa halaman ini secara berkala untuk mengetahui perubahan terbaru.
 
-### 13. Hukum yang Berlaku dan Yurisdiksi
+### 16. Hukum yang Berlaku dan Yurisdiksi
 
 Syarat Penggunaan ini akan diatur dan ditafsirkan sesuai dengan hukum Republik Indonesia. Pengadilan di [Kota] akan memiliki yurisdiksi eksklusif atas segala sengketa yang timbul dari atau sehubungan dengan penggunaan Situs.
 
-Dengan menggunakan Situs ini, Anda menyatakan bahwa Anda telah membaca, memahami, dan menyetujui Syarat Penggunaan ini.
+Dengan mengakses dan menggunakan Situs ini, Anda menyatakan bahwa Anda telah membaca, memahami, dan menyetujui Syarat Penggunaan ini, termasuk perubahan yang mungkin terjadi di masa mendatang.
