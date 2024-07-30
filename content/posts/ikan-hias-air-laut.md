@@ -6,7 +6,7 @@ draft: false
 description: "Bawa keajaiban laut tropis ke rumah Anda dengan akuarium air asin. Pelajari cara memulai, merawat, dan menikmati ekosistem mini ini dalam panduan lengkap kami."
 categories: ["Hobi", "Akuarium"]
 tags: ["akuarium air asin", "ikan hias laut", "perawatan akuarium", "ekosistem laut"]
-image: /images/akuarium-air-asin.jpg
+image: /images/ikan-hias-aquarium.jpg
 ---
 
 Bayangkan Anda sedang menyelam di Great Barrier Reef, dikelilingi oleh ribuan ikan warna-warni dan terumbu karang yang menakjubkan. Sekarang, bayangkan Anda bisa menikmati pemandangan serupa setiap hari di ruang tamu Anda. Inilah keajaiban akuarium air asin!
