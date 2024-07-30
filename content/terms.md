@@ -1,7 +1,7 @@
 ---
 title: "Syarat Penggunaan"
 date: 2024-07-30
-lastmod: ["lastmod", ":git", "date", "publishDate"]
+lastmod: 2024-07-30T00:00:00Z
 ---
 
 ## Syarat Penggunaan Anton-NB.com

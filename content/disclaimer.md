@@ -1,7 +1,7 @@
 +++
 title = "Disclaimer"
 date = 2024-07-30T14:00:00.001+07:00
-lastmod: ["lastmod", ":git", "date", "publishDate"]
+lastmod = "2024-07-30T00:00:00Z"
 +++
 
 **Disclaimer**
