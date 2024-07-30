@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2023-10-06T20:37:29+07:00
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 image: images/about.jpg
 draft: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Kontak"
 image: "/images/contact.jpg"
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 draft: false
 ---
 
