@@ -52,6 +52,10 @@ twitter = "https://twitter.com/insertapps"
         name = 'Privacy'
         pageRef = '/privacy'
         weight = 35
+	[[menu.main]]
+        name = 'Cookie'
+        pageRef = '/cookie'
+        weight = 40
 
     [[menu.top]]
         name = 'Home'
