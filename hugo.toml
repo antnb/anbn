@@ -54,12 +54,12 @@ twitter = "https://twitter.com/insertapps"
         pageRef = '/'
         weight = 10
     [[menu.top]]
-        name = 'Services'
-        pageRef = '/services'
+        name = 'categories'
+        pageRef = '/categories'
         weight = 15
     [[menu.top]]
-        name = 'Blog'
-        pageRef = '/blog'
+        name = 'Artikel'
+        pageRef = '/posts'
         weight = 20
 
 [module]
