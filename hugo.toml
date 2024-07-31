@@ -45,9 +45,13 @@ twitter = "https://twitter.com/insertapps"
         pageRef = '/disclaimer'
         weight = 25
 	[[menu.main]]
-        name = 'terms'
+        name = 'Terms'
         pageRef = '/terms'
         weight = 30
+	[[menu.main]]
+        name = 'Privacy'
+        pageRef = '/privacy'
+        weight = 35
 
     [[menu.top]]
         name = 'Home'
