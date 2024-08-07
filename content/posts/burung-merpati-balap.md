@@ -1,7 +1,7 @@
 ---
 title: "Merpati Balap: Sayap Kebanggaan Indonesia yang Mengepakkan Prestasi ke Panggung Dunia"
 date: 2024-08-03T09:00:00+07:00
-lastmod: 2024-08-03T09:00:00+07:00
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 draft: false
 description: "Jelajahi dunia menakjubkan merpati balap Indonesia, dari warisan budaya hingga inovasi teknologi yang mengharumkan nama bangsa di kancah internasional."
 categories: ["Olahraga", "Budaya"]
