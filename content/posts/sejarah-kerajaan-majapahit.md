@@ -1,5 +1,5 @@
 ---
-title: "Majapahit: Kisah Kejayaan dan Warisan Abadi Nusantara"
+title: "Sejarah Kerajaan Majapahit: Kisah Kejayaan dan Warisan Abadi Nusantara"
 date: 2024-08-08T14:56:00.001+07:00
 lastmod: ["lastmod", ":git", "date", "publishDate"]
 image: /images/majapahit.jpg
