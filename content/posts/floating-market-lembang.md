@@ -1,6 +1,7 @@
 ---
 title: "Menyusuri Pesona Pasar Terapung di Lembang"
 date: 2024-08-11
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 description: "Eksplorasi Floating Market Lembang, destinasi wisata unik di Bandung yang memadukan keindahan alam dan pengalaman berbelanja di atas air."
 image: /images/float.jpg
 ---
