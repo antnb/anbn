@@ -157,4 +157,6 @@ Menjaga kesehatan adalah tanggung jawab kita bersama. Dengan mengadopsi gaya hid
 
 Kesimpulannya, gamat menawarkan harapan baru dalam pengobatan Parkinson. Namun, pendekatan yang holistik, yang menggabungkan pengobatan konvensional dengan terapi alternatif seperti konsumsi gamat, serta gaya hidup sehat, adalah kunci untuk mencapai hasil yang optimal.
 
+***Disclaimer**: Informasi yang disajikan dalam artikel ini bersifat edukatif dan tidak dimaksudkan sebagai pengganti saran medis profesional. Selalu konsultasikan dengan dokter Anda sebelum memulai, mengubah, atau menghentikan pengobatan apa pun. Informasi yang diberikan dalam artikel ini tidak dimaksudkan untuk mendiagnosis atau mengobati kondisi medis apa pun.*
+
 
