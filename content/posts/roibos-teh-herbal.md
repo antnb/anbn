@@ -1,6 +1,7 @@
 ---
 title: "Mengenal Lebih Dekat Rooibos: Minuman Herbal Kaya Manfaat"
 date: 2024-08-14T10:00:00+07:00
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 description: "Rooibos, juga dikenal sebagai teh merah Afrika Selatan, adalah minuman herbal dengan banyak manfaat kesehatan. Temukan sejarah, wilayah produksi, dan profil nutrisinya."
 tags: ["Rooibos", "Teh Herbal", "Kesehatan", "Minuman Sehat", "Antioksidan"]
 categories: ["Minuman Sehat"]

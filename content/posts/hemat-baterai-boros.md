@@ -1,6 +1,7 @@
 ---
 title: "Mengapa Baterai HP Cepat Habis? Penyebab dan Cara Mengatasinya"
 date: 2024-08-14T12:00:00+07:00
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 description: "Ketahui penyebab baterai HP cepat habis dan cara mengatasinya dengan mengubah beberapa kebiasaan sederhana untuk memperpanjang umur baterai smartphone Anda."
 tags: ["Baterai HP", "Smartphone", "Teknologi", "Tips Hemat Baterai", "Perawatan HP"]
 categories: ["Teknologi", "Tips & Trik"]

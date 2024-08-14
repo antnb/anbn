@@ -1,6 +1,7 @@
 ---
 title: "Cara Meminta Kenaikan Gaji yang Efektif dan Profesional"
 date: 2024-08-14T11:00:00+07:00
+lastmod: ["lastmod", ":git", "date", "publishDate"]
 description: "Pelajari langkah-langkah strategis untuk meminta kenaikan gaji dengan efektif dan profesional, mulai dari evaluasi kinerja hingga negosiasi dengan atasan."
 tags: ["Kenaikan Gaji", "Negosiasi Gaji", "Karir", "Pengembangan Karir"]
 categories: ["Karir"]
@@ -210,4 +211,4 @@ Sudah siap untuk mengajukan kenaikan gaji? Mulailah dengan mengevaluasi kinerja 
 
 
 
-> **Disclaimer**: Informasi yang disajikan dalam artikel ini bersifat umum dan hanya sebagai panduan. Setiap situasi individu berbeda, dan keputusan akhir mengenai negosiasi gaji harus mempertimbangkan kondisi spesifik masing-masing individu. Penulis tidak bertanggung jawab atas segala kerugian yang timbul akibat penggunaan informasi dalam artikel ini. Sebaiknya konsultasikan dengan profesional atau ahli keuangan sebelum mengambil tindakan.
+***Disclaimer**: Informasi yang disajikan dalam artikel ini bersifat umum dan hanya sebagai panduan. Setiap situasi individu berbeda, dan keputusan akhir mengenai negosiasi gaji harus mempertimbangkan kondisi spesifik masing-masing individu. Penulis tidak bertanggung jawab atas segala kerugian yang timbul akibat penggunaan informasi dalam artikel ini. Sebaiknya konsultasikan dengan profesional atau ahli keuangan sebelum mengambil tindakan.*
